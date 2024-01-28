@@ -17,12 +17,15 @@ ul{
     gap: 16px;
 }
 
-img{
-   
-    width: 800px;
-}
+
 
 button{
     width: 100px;
     
+}
+
+header{
+    display: flex;
+   
+   
 }
