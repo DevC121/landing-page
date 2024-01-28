@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.header-links{
+    display: flex;
+    justify-content: flex-end;
+   
+   
+    
+}
