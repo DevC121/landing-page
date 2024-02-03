@@ -8,6 +8,9 @@ body{
 .header-links{
     display: flex;
     justify-content: flex-end;
+    font-size: 18px;
+    font-weight: 900;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
    
 }
 
@@ -36,5 +39,21 @@ button{
 }
 
 img{
-   width: 800px;
+   width: 200px;
+   height:200px;
+}
+
+video{
+    width:1000px;
+   
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.features{
+    display:flex
 }
