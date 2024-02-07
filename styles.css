@@ -2,6 +2,8 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+    background-color: #000000;
+    color:#ffffff;
   
 }
 
@@ -33,7 +35,7 @@ button{
     display: flex;
 background-color: #000040;
      align-items: center;
-     width:1850px;
+    
      color: white;
      
     
@@ -71,6 +73,7 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #000040;
     
 }
 
@@ -82,4 +85,9 @@ p{
    height:50px;
    color: #000000;
    margin-top: 16px;
+}
+
+.gameplay{
+    background-color: black;
+    color: white;
 }
